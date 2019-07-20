@@ -45,6 +45,8 @@ android {
             multiDexEnabled true
         }
 
+        /*
+
         dev {
             dimension "build"
             applicationId "com.xabber.androiddev"
@@ -72,6 +74,7 @@ android {
             resValue 'string', 'application_package', applicationId
             multiDexEnabled true
         }
+        */
     }
 
     buildTypes {
